@@ -33,6 +33,30 @@ A colorado board of elections employee has asked us to audit a recent congresion
 
 ## Challenge overview
 
+For our challenge, we were asked to find out more details pertaining to the election data. What we were looking for specifically was:
+
+  - The voter turnout for each county
+  - The percentage of votes from each county out of the total count
+  - The county with the highest turnout
+
+In order to find these results, a new Python code was written. This code can be reviewed in this repo by clicking PyPoll.Challenge.py. The code gave us the following results:
+
+![Election_results_screenshot](https://user-images.githubusercontent.com/87949792/144537117-8e65fa56-4c56-469d-9880-a727ce5be4fe.png)
+
+Our results are as follows: 
+
+  - Jefferson county accounted for 10.5% of the total vote, with a vote count of 38,855 votes
+  - Denver county accounted for 82.8% of the vote, with a vote count of 306,055 votes
+  - Arapahoe county accounted for 6.7% of the vote, with a vote count of 24,801 votes
+
+  - Denver county had the largest number of votes
+   
+
+
 ## Challenge Summary 
+
+Our code is extremely malleable, so long as we are given the raw voter data for whatever county we find interest in. This code can provide many insights: knowing where the larger percentage of voters are can infrom a candidate on where they should focus their campaign efforts. With more couties of colorado provided, we can determine what spots to hit hard with a campaign in a future election. It would also be usueful to know what percentage of the population did NOT vote - knowing where voters are untapped can hold lots of potential energy, so long as you have a candidate that excites voters to the polls! 
+
+
  
 
